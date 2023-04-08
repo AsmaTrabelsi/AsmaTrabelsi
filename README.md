@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Asma Trabelsi</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [LevelUpMarket](https://github.com/AsmaTrabelsi/LevelUpMarket)
+- 👩‍🎓 IT Engineering Student at Esprit
 
-- 🌱 I’m currently learning **ASP .Net Core**
+- 👩‍💻 Full Stack Developer at Earnst & Young
 
-- 💬 Ask me about **.Net Framework, ASP.Net, Dart, Flutter, Java, Spring boot,**
-
-- 📫 How to reach me **asma.tra149@gmail.com**
+- 📧 How to reach me **asma.tra149@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
