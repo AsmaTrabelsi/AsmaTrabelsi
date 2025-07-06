@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asma Trabelsi</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 👩‍🎓 IT Engineering Student at Esprit
+- 👩‍🎓 IT Engineering Student
 
-- 👩‍💻 Full Stack Developer at Earnst & Young
+- 👩‍💻 Full Stack Developer 
 
 - 📧 How to reach me **asma.tra149@gmail.com**
 
